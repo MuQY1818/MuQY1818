@@ -34,6 +34,11 @@ Mainly conduct research on **Multimodal Learning**, aiming to align visual perce
 
 I am actively exploring the application of Reinforcement Learning (PPO) in Serverless Computing and the principles of Compilation Technology.
 
+### Blog posts
+Here is my blog. You can find some of my study and thinking records here.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake.svg">
