@@ -1,71 +1,60 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Hi,+I'm+a+Researcher;Exploring+VLM+%26+Embodied+AI;Author+of+Conscious+Gaze;Coding+for+Culture+%26+Innovation" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Weijue's+GitHub!;Exploring+VLM+%26+Embodied+AI;Author+of+Conscious+Gaze;Building+SachetAI+for+Culture)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://github.com/你的GitHub用户名/你的GitHub用户名/blob/output/github-contribution-grid-snake.svg" />
-</div>
+## Hello! 🙂
 
----
+### About Me
+Here is **Weijue Bu**. You can call me Weijue. I am a researcher passionate about **Vision-Language Models (VLM)** and **Embodied AI**. I am currently working on mitigating hallucinations in large models and bridging the gap between vision and robotic actions.
 
-### 👨‍💻 About Me
+- 🔭 I’m currently working on **Hallucination Mitigation in VLMs** (Author of *"Conscious Gaze"*)
+- 🌱 I’m currently learning **Serverless Computing Optimization** and **Compilation Theory**
+- 👯 I would like to collaborate on **Vision-Language-Action (VLA)** models and **Robotics**
+- ⚡ Fun fact: I am also building **SachetAI**, a generative AI project for traditional Chinese patterns.
+- 📫 The way to reach me:
 
-Here is a passionate developer and researcher focusing on **Vision-Language Models** and **Software Engineering**.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muqy1818)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weijue@cumt.edu.cn)
+[![Website](https://img.shields.io/badge/Blog-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muqyy.top)
 
-- 🔭 **Current Focus:** Mitigating Hallucinations in VLMs & Embodied AI (VLA).
-- 📄 **Research:** Author of *"Conscious Gaze: Adaptive Attention Mechanisms"*.
-- 🎨 **Creative Project:** Building **SachetAI** (Generative AI for Traditional Chinese Patterns).
-- ⚙️ **Tech Interests:** Serverless Computing Optimization (RL/PPO) & Compilation Theory.
-- 💬 **Ask me about:** Java, Deep Learning, and traditional Chinese culture.
+These are the skills that I know and have mastered:
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🛠️ Tech Stack & Tools
+### Education & Research
+- **Current**: China University of Mining and Technology
 
-<div align="center">
+Mainly conduct research on **Multimodal Learning**, aiming to align visual perception with linguistic reasoning in complex environments.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
+- **Key Project**: *Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models*.
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+I am actively exploring the application of Reinforcement Learning (PPO) in Serverless Computing and the principles of Compilation Technology.
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+### Blog posts
+Here are some of my notes and thoughts.
+- [Research | Understanding Hallucination in VLMs](https://github.com/muqy1818)
+- [Project | SachetAI: Generative AI for Culture](https://github.com/muqy1818)
+- [Notes | Analysis of Compilation Theory & LL(1) Parsing](https://github.com/muqy1818)
+- [Algorithm | Serverless Optimization with PPO](https://github.com/muqy1818)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake.svg">
+</picture>
 
-</div>
+The number of views of this page is as follows.
 
----
+<img src="https://count.getloli.com/@muqy1818?theme=moebooru"/>
 
-### 📊 GitHub Stats
+<a href="https://github.com/muqy1818">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muqy1818&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/muqy1818">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muqy1818&layout=donut&langs_count=5&card_width=320&theme=transparent" />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
----
-
-### 🏆 Featured Research
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **Conscious Gaze** | *Adaptive Attention Mechanisms for Hallucination Mitigation.* | `VLM` `Attention` `PyTorch` |
-| **SachetAI** | *Generating traditional cultural patterns via fine-tuned LLMs.* | `GenAI` `LoRA` `Culture` |
-| **Serverless RL** | *Function configuration optimization using PPO algorithm.* | `Reinforcement Learning` `Cloud` |
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuQY1818&style=flat-square&color=blue" alt="Visitor Count" />
-  <p><i>Thanks for visiting! Let's connect and code together.</i> ☕</p>
-</div>
+[![muqy1818's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muqy1818&theme=github-compact)](https://github.com/muqy1818)
