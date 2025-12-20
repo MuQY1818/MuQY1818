@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Weijue's+GitHub!;Exploring+VLM+%26+Embodied+AI;Author+of+Conscious+Gaze;Building+SachetAI+for+Culture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Weijue's+GitHub!;Exploring+VLM+%26+Embodied+AI;Building+SachetAI+for+Culture)](https://git.io/typing-svg)
 
 ## Hello! 🙂
 
@@ -34,12 +34,6 @@ Mainly conduct research on **Multimodal Learning**, aiming to align visual perce
 
 I am actively exploring the application of Reinforcement Learning (PPO) in Serverless Computing and the principles of Compilation Technology.
 
-### Blog posts
-Here are some of my notes and thoughts.
-- [Research | Understanding Hallucination in VLMs](https://github.com/muqy1818)
-- [Project | SachetAI: Generative AI for Culture](https://github.com/muqy1818)
-- [Notes | Analysis of Compilation Theory & LL(1) Parsing](https://github.com/muqy1818)
-- [Algorithm | Serverless Optimization with PPO](https://github.com/muqy1818)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake.svg">
