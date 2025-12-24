@@ -55,7 +55,7 @@ The number of views of this page is as follows.
 <img src="https://count.getloli.com/@muqy1818?theme=moebooru"/>
 
 <a href="https://github.com/muqy1818">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muqy1818&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=muqy1818&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/muqy1818">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muqy1818&layout=donut&langs_count=5&card_width=320&theme=transparent" />
