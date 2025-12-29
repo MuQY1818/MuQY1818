@@ -16,4 +16,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.muqyy.top/rss" # Replace this with your RSS link
+          feed_list: "https://www.muqyy.top/rss"
+          # 添加下面这行来伪装浏览器，防止被拦截导致超时
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
