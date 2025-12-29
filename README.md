@@ -55,11 +55,11 @@ The number of views of this page is as follows.
 <img src="https://count.getloli.com/@muqy1818?theme=moebooru"/>
 
 <a href="https://github.com/muqy1818">
-  <img height=200 align="center" src="https://github-readme-stats-theta-olive-15.vercel.app/api?username=muqy1818&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-theta-olive-15.vercel.app/api?username=muqy1818&show_icons=true&theme=transparent&v=1" />
 </a>
 
 <a href="https://github.com/muqy1818">
-  <img height=200 align="center" src="https://github-readme-stats-theta-olive-15.vercel.app/api/top-langs?username=muqy1818&layout=donut&langs_count=5&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-theta-olive-15.vercel.app/api/top-langs?username=muqy1818&layout=donut&langs_count=5&card_width=320&theme=transparent&v=1" />
 </a>
 
 [![muqy1818's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muqy1818&theme=github-compact)](https://github.com/muqy1818)
