@@ -34,16 +34,6 @@ Mainly conduct research on **Multimodal Learning**, aiming to align visual perce
 
 I am actively exploring the application of Reinforcement Learning (PPO) in Serverless Computing and the principles of Compilation Technology.
 
-### Blog posts
-Here is my blog. You can find some of my study and thinking records here.
-<!-- BLOG-POST-LIST:START -->
-- [🚀 省下$99！为 macOS 独立应用打造“零成本”自动更新方案](https://www.muqyy.top/345.html)
-- [Java考试复习资料整理](https://www.muqyy.top/342.html)
-- [多线程编程](https://www.muqyy.top/341.html)
-- [Java中的异常处理简答题](https://www.muqyy.top/337.html)
-- [单人开发git最佳实践](https://www.muqyy.top/335.html)
-<!-- BLOG-POST-LIST:END -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake.svg">
