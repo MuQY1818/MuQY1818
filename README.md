@@ -1,55 +1,84 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Weijue's+GitHub!;Exploring+VLM+%26+Embodied+AI;Building+SachetAI+for+Culture)](https://git.io/typing-svg)
+<div align="center">
 
-## Hello! 🙂
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:00b4d8&height=220&section=header&text=Weijue%20Bu&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Embodied%20AI%20%C2%B7%20VLA%20%C2%B7%20Robot%20Learning&descAlignY=56&descSize=20&descColor=aee9ff" width="100%"/>
 
-### About Me
-Here is **Weijue Bu**. You can call me Weijue. I am a researcher passionate about **Vision-Language Models (VLM)** and **Embodied AI**. I am currently working on mitigating hallucinations in large models and bridging the gap between vision and robotic actions.
-
-- 🔭 I’m currently working on **Hallucination Mitigation in VLMs** (Author of *"Conscious Gaze"*)
-- 🌱 I’m currently learning **Serverless Computing Optimization** and **Compilation Theory**
-- 👯 I would like to collaborate on **Vision-Language-Action (VLA)** models and **Robotics**
-- ⚡ Fun fact: I am also building **SachetAI**, a generative AI project for traditional Chinese patterns.
-- 📫 The way to reach me:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+robots+that+remember%2C+reason%2C+and+act;Long-horizon+manipulation+with+VLM+planning;VLA+state+memory+%26+spatial+reasoning;Co-first+author+%40+ECCV+2026+(RoboStream);SO-101+%C2%B7+Unitree+G1+%2F+Go2+%C2%B7+MuJoCo" alt="Typing SVG" /></a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muqy1818)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weijue@cumt.edu.cn)
-[![Website](https://img.shields.io/badge/Blog-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muqyy.top)
+[![Blog](https://img.shields.io/badge/Blog-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muqyy.top)
+[![Views](https://komarev.com/ghpvc/?username=muqy1818&style=for-the-badge&color=0b3d91&label=PROFILE+VIEWS)](https://github.com/muqy1818)
 
-These are the skills that I know and have mastered:
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
-### Education & Research
-- **Current**: China University of Mining and Technology
+### 🤖 About Me
 
-Mainly conduct research on **Multimodal Learning**, aiming to align visual perception with linguistic reasoning in complex environments.
+> CS undergrad @ **CUMT** (Rank **9/185**) · Research Intern @ **Tsinghua SIGS** (Prof. Zhi Wang's group)<br>
+> Working on **Spatial Intelligence & Embodied AI** — long-horizon robot manipulation, VLA state memory, and spatial reasoning.
 
-- **Key Project**: *Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models*.
+- 🔭 **Now**: training-free VLM planning & long-horizon VLA control (RLBench · LIBERO · SIMPLER)
+- 🦾 **Hardware**: SO-101 arm (teleop + π0 fine-tuning), Unitree G1 / Go2 locomotion in MuJoCo
+- 🌱 **Exploring**: bridging VLM reasoning and low-level robot control
+- 🏆 **Honors**: "Challenge Cup" National First Prize (2025) · ICPC China Invitational Bronze (2025)
 
-I am actively exploring the application of Reinforcement Learning (PPO) in Serverless Computing and the principles of Compilation Technology.
+---
+
+### 🔬 Research & Publications
+
+| Venue | Project | TL;DR |
+|:---:|:---|:---|
+| ![ECCV 2026](https://img.shields.io/badge/ECCV-2026-0b3d91?style=flat-square) | **RoboStream** 🤖 *(Co-first author)* | Training-free VLM planning with spatio-temporal memory for long-horizon manipulation — **90.5%** success on RLBench long-horizon tasks (14.5% w/o memory) |
+| ![AAAI 2027](https://img.shields.io/badge/AAAI-2027_under_review-6a4c93?style=flat-square) | **ChainVLA** 🔗 *(Co-first author)* | Passing task progress & motion intent across VLA queries for non-Markovian control — LIBERO Avg **98.8%** / Long **98.2%** |
+| ![ICME 2026](https://img.shields.io/badge/ICME-2026-0b3d91?style=flat-square) | **Conscious Gaze** 👁️ *(First author)* | Training-free inference-time attention intervention against VLM hallucination — POPE F1 up to **+7%** |
+| ![IEEE TCC](https://img.shields.io/badge/IEEE-TCC-0b3d91?style=flat-square) | **CALO** ☁️ *(Student first author)* | Code- & load-aware serverless resource configuration with deep RL |
+
+---
+
+### 🦾 Hands-on Robotics
+
+```
+SO-101 Arm  ──► camera calibration · joint control · teleoperation data collection · π0 (JAX) fine-tuning
+G1 / Go2    ──► PPO locomotion in MuJoCo (UniLab) · backflip · wall-jump · dancing
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,pytorch,ros,opencv,docker,linux,git,latex&theme=dark" /></a>
+
+![MuJoCo](https://img.shields.io/badge/MuJoCo-0b3d91?style=for-the-badge)
+![RLBench](https://img.shields.io/badge/RLBench-00b4d8?style=for-the-badge)
+![LIBERO](https://img.shields.io/badge/LIBERO-00b4d8?style=for-the-badge)
+![SIMPLER](https://img.shields.io/badge/SIMPLER-00b4d8?style=for-the-badge)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/muqy1818">
+  <img height="180" src="https://github-readme-stats-theta-olive-15.vercel.app/api?username=muqy1818&show_icons=true&theme=transparent&title_color=00b4d8&icon_color=00b4d8&text_color=888&v=1" />
+</a>
+<a href="https://github.com/muqy1818">
+  <img height="180" src="https://github-readme-stats-theta-olive-15.vercel.app/api/top-langs?username=muqy1818&layout=donut&langs_count=5&theme=transparent&title_color=00b4d8&text_color=888&v=1" />
+</a>
+
+[![muqy1818's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muqy1818&theme=github-compact&color=00b4d8&line=0b3d91&point=00b4d8)](https://github.com/muqy1818)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-The number of views of this page is as follows.
+</div>
 
-<img src="https://count.getloli.com/@muqy1818?theme=moebooru"/>
-
-<a href="https://github.com/muqy1818">
-  <img height=200 align="center" src="https://github-readme-stats-theta-olive-15.vercel.app/api?username=muqy1818&show_icons=true&theme=transparent&v=1" />
-</a>
-
-<a href="https://github.com/muqy1818">
-  <img height=200 align="center" src="https://github-readme-stats-theta-olive-15.vercel.app/api/top-langs?username=muqy1818&layout=donut&langs_count=5&card_width=320&theme=transparent&v=1" />
-</a>
-
-[![muqy1818's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muqy1818&theme=github-compact)](https://github.com/muqy1818)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0b3d91,100:0d1117&height=120&section=footer" width="100%"/>
