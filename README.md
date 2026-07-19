@@ -30,7 +30,6 @@
 | Venue | Project | TL;DR |
 |:---:|:---|:---|
 | ![ECCV 2026](https://img.shields.io/badge/ECCV-2026-0b3d91?style=flat-square) | **RoboStream** 🤖 *(Co-first author)* | Training-free VLM planning with spatio-temporal memory for long-horizon manipulation — **90.5%** success on RLBench long-horizon tasks (14.5% w/o memory) |
-| ![AAAI 2027](https://img.shields.io/badge/AAAI-2027_under_review-6a4c93?style=flat-square) | **ChainVLA** 🔗 *(Co-first author)* | Passing task progress & motion intent across VLA queries for non-Markovian control — LIBERO Avg **98.8%** / Long **98.2%** |
 | ![ICME 2026](https://img.shields.io/badge/ICME-2026-0b3d91?style=flat-square) | **Conscious Gaze** 👁️ *(First author)* | Training-free inference-time attention intervention against VLM hallucination — POPE F1 up to **+7%** |
 | ![IEEE TCC](https://img.shields.io/badge/IEEE-TCC-0b3d91?style=flat-square) | **CALO** ☁️ *(Student first author)* | Code- & load-aware serverless resource configuration with deep RL |
 
