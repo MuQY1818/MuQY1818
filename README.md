@@ -1,15 +1,13 @@
-<div align="center">
+<h1 align="center">Weijue Bu</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:00b4d8&height=220&section=header&text=Weijue%20Bu&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Embodied%20AI%20%C2%B7%20VLA%20%C2%B7%20Robot%20Learning&descAlignY=56&descSize=20&descColor=aee9ff" width="100%"/>
+<p align="center"><strong>Embodied AI · VLA · Robot Learning</strong></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+robots+that+remember%2C+reason%2C+and+act;Long-horizon+manipulation+with+VLM+planning;VLA+state+memory+%26+spatial+reasoning;Co-first+author+%40+ECCV+2026+(RoboStream);SO-101+%C2%B7+Unitree+G1+%2F+Go2+%C2%B7+MuJoCo" alt="Typing SVG" /></a>
+<p align="center">Building robots that remember, reason, and act.</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muqy1818)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weijue@cumt.edu.cn)
-[![Blog](https://img.shields.io/badge/Blog-0088CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muqyy.top)
-[![Views](https://komarev.com/ghpvc/?username=muqy1818&style=for-the-badge&color=0b3d91&label=PROFILE+VIEWS)](https://github.com/muqy1818)
-
-</div>
+<p align="center">
+  <a href="mailto:weijue@cumt.edu.cn">Email</a> ·
+  <a href="https://github.com/MuQY1818?tab=repositories">Repositories</a>
+</p>
 
 ---
 
