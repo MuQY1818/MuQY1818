@@ -1,13 +1,15 @@
-<h1 align="center">Weijue Bu</h1>
+<div align="center">
 
-<p align="center"><strong>Embodied AI · VLA · Robot Learning</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3A84A,50:F6C65B,100:FFE4A8&height=190&section=header&text=Weijue%20Bu&fontSize=58&fontColor=3A2A1F&fontAlignY=36&animation=fadeIn&desc=Embodied%20AI%20%C2%B7%20VLA%20%C2%B7%20Robot%20Learning&descAlignY=57&descSize=19&descColor=6E4B2B" width="100%"/>
 
-<p align="center">Building robots that remember, reason, and act.</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D88922&center=true&vCenter=true&width=800&lines=Building+robots+that+remember%2C+reason%2C+and+act;Long-horizon+manipulation+with+VLM+planning;VLA+state+memory+%26+spatial+reasoning;Co-first+author+%40+ECCV+2026+(RoboStream);SO-101+%C2%B7+Unitree+G1+%2F+Go2+%C2%B7+MuJoCo" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="mailto:weijue@cumt.edu.cn">Email</a> ·
-  <a href="https://github.com/MuQY1818?tab=repositories">Repositories</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-3A2A1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muqy1818)
+[![Email](https://img.shields.io/badge/Email-CB5C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weijue@cumt.edu.cn)
+[![Repositories](https://img.shields.io/badge/Repositories-D88922?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuQY1818?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=muqy1818&style=for-the-badge&color=8A5A22&label=PROFILE+VIEWS)](https://github.com/muqy1818)
+
+</div>
 
 ---
 
@@ -27,9 +29,9 @@
 
 | Venue | Project | TL;DR |
 |:---:|:---|:---|
-| ![ECCV 2026](https://img.shields.io/badge/ECCV-2026-0b3d91?style=flat-square) | **RoboStream** 🤖 *(Co-first author)* | Training-free VLM planning with spatio-temporal memory for long-horizon manipulation — **90.5%** success on RLBench long-horizon tasks (14.5% w/o memory) |
-| ![ICME 2026](https://img.shields.io/badge/ICME-2026-0b3d91?style=flat-square) | **Conscious Gaze** 👁️ *(First author)* | Training-free inference-time attention intervention against VLM hallucination — POPE F1 up to **+7%** |
-| ![IEEE TCC](https://img.shields.io/badge/IEEE-TCC-0b3d91?style=flat-square) | **CALO** ☁️ *(Student first author)* | Code- & load-aware serverless resource configuration with deep RL |
+| ![ECCV 2026](https://img.shields.io/badge/ECCV-2026-8A5A22?style=flat-square) | **RoboStream** 🤖 *(Co-first author)* | Training-free VLM planning with spatio-temporal memory for long-horizon manipulation — **90.5%** success on RLBench long-horizon tasks (14.5% w/o memory) |
+| ![ICME 2026](https://img.shields.io/badge/ICME-2026-8A5A22?style=flat-square) | **Conscious Gaze** 👁️ *(First author)* | Training-free inference-time attention intervention against VLM hallucination — POPE F1 up to **+7%** |
+| ![IEEE TCC](https://img.shields.io/badge/IEEE-TCC-8A5A22?style=flat-square) | **CALO** ☁️ *(Student first author)* | Code- & load-aware serverless resource configuration with deep RL |
 
 ---
 
@@ -48,10 +50,10 @@ G1 / Go2    ──► PPO locomotion in MuJoCo (UniLab) · backflip · wall-jump
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,pytorch,ros,opencv,docker,linux,git,latex&theme=dark" /></a>
 
-![MuJoCo](https://img.shields.io/badge/MuJoCo-0b3d91?style=for-the-badge)
-![RLBench](https://img.shields.io/badge/RLBench-00b4d8?style=for-the-badge)
-![LIBERO](https://img.shields.io/badge/LIBERO-00b4d8?style=for-the-badge)
-![SIMPLER](https://img.shields.io/badge/SIMPLER-00b4d8?style=for-the-badge)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-8A5A22?style=for-the-badge)
+![RLBench](https://img.shields.io/badge/RLBench-D88922?style=for-the-badge)
+![LIBERO](https://img.shields.io/badge/LIBERO-D88922?style=for-the-badge)
+![SIMPLER](https://img.shields.io/badge/SIMPLER-D88922?style=for-the-badge)
 
 </div>
 
@@ -62,10 +64,10 @@ G1 / Go2    ──► PPO locomotion in MuJoCo (UniLab) · backflip · wall-jump
 <div align="center">
 
 <a href="https://github.com/muqy1818">
-  <img height="180" src="https://github-readme-stats-theta-olive-15.vercel.app/api?username=muqy1818&show_icons=true&theme=transparent&title_color=00b4d8&icon_color=00b4d8&text_color=888&v=1" />
+  <img height="180" src="https://github-readme-stats-theta-olive-15.vercel.app/api?username=muqy1818&show_icons=true&theme=transparent&title_color=d88922&icon_color=d88922&text_color=888&v=1" />
 </a>
 <a href="https://github.com/muqy1818">
-  <img height="180" src="https://github-readme-stats-theta-olive-15.vercel.app/api/top-langs?username=muqy1818&layout=donut&langs_count=5&theme=transparent&title_color=00b4d8&text_color=888&v=1" />
+  <img height="180" src="https://github-readme-stats-theta-olive-15.vercel.app/api/top-langs?username=muqy1818&layout=donut&langs_count=5&theme=transparent&title_color=d88922&text_color=888&v=1" />
 </a>
 
 <picture>
@@ -76,4 +78,4 @@ G1 / Go2    ──► PPO locomotion in MuJoCo (UniLab) · backflip · wall-jump
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0b3d91,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4A8,50:F6C65B,100:F3A84A&height=100&section=footer" width="100%"/>
