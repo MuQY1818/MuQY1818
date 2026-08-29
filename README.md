@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3A84A,50:F6C65B,100:FFE4A8&height=190&section=header&text=Weijue%20Bu&fontSize=58&fontColor=3A2A1F&fontAlignY=36&animation=fadeIn&desc=Embodied%20AI%20%C2%B7%20VLA%20%C2%B7%20Robot%20Learning&descAlignY=57&descSize=19&descColor=6E4B2B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3A84A,50:F6C65B,100:FFE4A8&height=190&section=header&text=Weijue%20Bu&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Embodied%20AI%20%C2%B7%20VLA%20%C2%B7%20Robot%20Learning&descAlignY=57&descSize=19&descColor=FFFFFF" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D88922&center=true&vCenter=true&width=800&lines=Building+robots+that+remember%2C+reason%2C+and+act;Long-horizon+manipulation+with+VLM+planning;VLA+state+memory+%26+spatial+reasoning;Co-first+author+%40+ECCV+2026+(RoboStream);SO-101+%C2%B7+Unitree+G1+%2F+Go2+%C2%B7+MuJoCo" alt="Typing SVG" /></a>
 
