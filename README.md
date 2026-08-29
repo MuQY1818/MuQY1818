@@ -70,8 +70,6 @@ G1 / Go2    ──► PPO locomotion in MuJoCo (UniLab) · backflip · wall-jump
   <img height="180" src="https://github-readme-stats-theta-olive-15.vercel.app/api/top-langs?username=muqy1818&layout=donut&langs_count=5&theme=transparent&title_color=00b4d8&text_color=888&v=1" />
 </a>
 
-[![muqy1818's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muqy1818&theme=github-compact&color=00b4d8&line=0b3d91&point=00b4d8)](https://github.com/muqy1818)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muqy1818/muqy1818/output/github-contribution-grid-snake.svg">
