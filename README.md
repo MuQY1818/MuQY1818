@@ -10,6 +10,8 @@ Incoming graduate student at the **[Institute of Trustworthy Embodied Artificial
 
 I work on **spatial intelligence** and **embodied AI** for long-horizon robotic manipulation. My research asks how vision-language models can plan and act over long horizons when visual evidence is grounded in 3D geometry and carried across an episode as persistent memory, and how receding-horizon VLA policies can hand execution state from one query to the next.
 
+My current focus is **RSI (recursive self-improvement) in Embodied AI** and **Agentic Embodied AI** — using vision-language models to drive robots through manipulation tasks.
+
 Alongside the algorithmic work, I have hands-on experience with physical platforms: teleoperation data collection and π0 fine-tuning on an SO-101 arm, and locomotion policy training for Unitree G1 / Go2 in MuJoCo.
 
 ## News
