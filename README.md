@@ -15,9 +15,9 @@ Alongside the algorithmic work, I have hands-on experience with physical platfor
 ## News
 
 - **2026.09** — Admitted to the Institute of Trustworthy Embodied Artificial Intelligence (TEAI), Fudan University, as an incoming graduate student.
-- **2026.07** — **RoboStream** accepted to **ECCV 2026** (co-first author).
-- **2026.07** — **CALO** accepted to *IEEE Transactions on Cloud Computing* (student first author).
-- **2026.03** — **Conscious Gaze** accepted to **ICME 2026** (first author).
+- **2026.07** — **RoboStream** accepted to **ECCV 2026**.
+- **2026.07** — **CALO** accepted to *IEEE Transactions on Cloud Computing*.
+- **2026.03** — **Conscious Gaze** accepted to **ICME 2026**.
 
 ## Publications
 
@@ -34,7 +34,7 @@ Donghong Xu, **Weijue Bu**, Zhouliang Ye, Shilong Wu<br>
 *IEEE Transactions on Cloud Computing, 2026* · [Code](https://github.com/MuQY1818/calo-experiments)
 
 **ChainVLA: Chaining Task Progress and Motion Intent Across VLA Queries**<br>
-Under review · co-first author
+Under review
 
 **PiN-Mod: Identity-Consistent Personalized Image Generation**<br>
 Under review
