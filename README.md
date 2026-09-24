@@ -1,4 +1,4 @@
-# Weijue Bu (卜炜珏)
+# Weijue Bu
 
 Incoming graduate student at the **[Institute of Trustworthy Embodied Artificial Intelligence (TEAI)](https://teai.fudan.edu.cn/)**, [Fudan University](https://www.fudan.edu.cn/). Currently a computer science undergraduate at [China University of Mining and Technology](https://www.cumt.edu.cn/) and a research intern at Tsinghua Shenzhen International Graduate School (Prof. Zhi Wang's group).
 
