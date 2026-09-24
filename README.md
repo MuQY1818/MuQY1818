@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D88922&center=true&vCenter=true&width=800&lines=Building+robots+that+remember%2C+reason%2C+and+act;Long-horizon+manipulation+with+VLM+planning;VLA+state+memory+%26+spatial+reasoning;Co-first+author+%40+ECCV+2026+(RoboStream);SO-101+%C2%B7+Unitree+G1+%2F+Go2+%C2%B7+MuJoCo" alt="Typing SVG" /></a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-3A2A1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muqy1818)
+[![Website](https://img.shields.io/badge/Website-D88922?style=for-the-badge)](https://muqy1818.github.io/)
 [![Email](https://img.shields.io/badge/Email-CB5C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weijue@cumt.edu.cn)
 [![Repositories](https://img.shields.io/badge/Repositories-D88922?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuQY1818?tab=repositories)
 [![Views](https://komarev.com/ghpvc/?username=muqy1818&style=for-the-badge&color=8A5A22&label=PROFILE+VIEWS)](https://github.com/muqy1818)
@@ -15,8 +16,11 @@
 
 ### 🤖 About Me
 
-> CS undergrad @ **CUMT** (Rank **9/185**) · Research Intern @ **Tsinghua SIGS** (Prof. Zhi Wang's group)<br>
-> Working on **Spatial Intelligence & Embodied AI** — long-horizon robot manipulation, VLA state memory, and spatial reasoning.
+**Incoming graduate student** at [Fudan University](https://www.fudan.edu.cn/), [Institute of Trustworthy Embodied Artificial Intelligence (TEAI)](https://teai.fudan.edu.cn/) · Currently a CS undergrad @ **CUMT** (Rank **9/185**) · Research Intern @ **Tsinghua SIGS** (Prof. Zhi Wang's group)
+
+<a href="https://www.fudan.edu.cn/"><img src="assets/fudan-emblem.png" alt="Fudan University emblem" width="64" height="64"></a>&nbsp;&nbsp;<a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied Artificial Intelligence, Fudan University" width="368" height="48"></a>
+
+Working on **Spatial Intelligence & Embodied AI** — long-horizon robot manipulation, VLA state memory, and spatial reasoning.
 
 - 🔭 **Now**: training-free VLM planning & long-horizon VLA control (RLBench · LIBERO · SIMPLER)
 - 🦾 **Hardware**: SO-101 arm (teleop + π0 fine-tuning), Unitree G1 / Go2 locomotion in MuJoCo
