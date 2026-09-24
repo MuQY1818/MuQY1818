@@ -21,21 +21,23 @@ Alongside the algorithmic work, I have hands-on experience with physical platfor
 
 ## Publications
 
-**RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics**
-Yuzhi Huang\*, Jie Wu\*, **Weijue Bu**\*, Ziyi Xiong, Gaoyang Jiang, Ye Li, Kangye Ji, Shuzhao Xie, Yue Huang, Chenglei Wu, Jingyan Jiang, Zhi Wang
+**RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics**<br>
+Yuzhi Huang\*, Jie Wu\*, **Weijue Bu**\*, Ziyi Xiong, Gaoyang Jiang, Ye Li, Kangye Ji, Shuzhao Xie, Yue Huang, Chenglei Wu, Jingyan Jiang, Zhi Wang<br>
 *ECCV 2026* · [Project Page](https://robostream123.github.io/) · [arXiv](https://arxiv.org/abs/2603.12939)
 
-**Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models**
-**Weijue Bu**, Guan Yuan, Guixian Zhang
+**Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models**<br>
+**Weijue Bu**, Guan Yuan, Guixian Zhang<br>
 *ICME 2026* · [arXiv](https://arxiv.org/abs/2512.05546)
 
-**CALO: Code-Aware and Load-Aware Resource Configuration for Serverless Functions via Deep Reinforcement Learning**
-Donghong Xu, **Weijue Bu**, Zhouliang Ye, Shilong Wu
+**CALO: Code-Aware and Load-Aware Resource Configuration for Serverless Functions via Deep Reinforcement Learning**<br>
+Donghong Xu, **Weijue Bu**, Zhouliang Ye, Shilong Wu<br>
 *IEEE Transactions on Cloud Computing, 2026* · [Code](https://github.com/MuQY1818/calo-experiments)
 
-**ChainVLA: Chaining Task Progress and Motion Intent Across VLA Queries** — under review, co-first author
+**ChainVLA: Chaining Task Progress and Motion Intent Across VLA Queries**<br>
+Under review · co-first author
 
-**PiN-Mod: Identity-Consistent Personalized Image Generation** — under review
+**PiN-Mod: Identity-Consistent Personalized Image Generation**<br>
+Under review
 
 \* Equal contribution.
 
