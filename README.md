@@ -16,7 +16,7 @@
 
 ### 🤖 About Me
 
-**Incoming graduate student** at [Fudan University](https://www.fudan.edu.cn/), [Institute of Trustworthy Embodied Artificial Intelligence (TEAI)](https://teai.fudan.edu.cn/) · Currently a CS undergrad @ **CUMT** (Rank **9/185**) · Research Intern @ **Tsinghua SIGS** (Prof. Zhi Wang's group)
+**Incoming graduate student** at [Fudan University](https://www.fudan.edu.cn/), [Institute of Trustworthy Embodied Artificial Intelligence (TEAI)](https://teai.fudan.edu.cn/) · Currently a CS undergrad @ **CUMT** · Research Intern @ **Tsinghua SIGS** (Prof. Zhi Wang's group)
 
 <a href="https://www.fudan.edu.cn/"><img src="assets/fudan-emblem.png" alt="Fudan University emblem" width="64" height="64"></a>&nbsp;&nbsp;<a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied Artificial Intelligence, Fudan University" width="368" height="48"></a>
 
