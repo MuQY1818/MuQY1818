@@ -35,7 +35,7 @@ Yuzhi Huang\*, Jie Wu\*, **Weijue Bu**\*, Ziyi Xiong, Gaoyang Jiang, Ye Li, Kang
 Donghong Xu, **Weijue Bu**, Zhouliang Ye, Shilong Wu<br>
 *IEEE Transactions on Cloud Computing, 2026* · [Code](https://github.com/MuQY1818/calo-experiments)
 
-**ChainVLA: Chaining Task Progress and Motion Intent Across VLA Queries**<br>
+**ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation**<br>
 Under review
 
 **PiN-Mod: Identity-Consistent Personalized Image Generation**<br>
