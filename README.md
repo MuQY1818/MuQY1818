@@ -16,6 +16,7 @@ Alongside the algorithmic work, I have hands-on experience with physical platfor
 
 ## News
 
+- **2026.10** — Awarded the **National Scholarship** (2025–2026 academic year).
 - **2026.09** — Admitted to the Institute of Trustworthy Embodied Artificial Intelligence (TEAI), Fudan University, as an incoming graduate student.
 - **2026.07** — **RoboStream** accepted to **ECCV 2026**.
 - **2026.07** — **CALO** accepted to *IEEE Transactions on Cloud Computing*.
@@ -50,6 +51,7 @@ Under review
 
 ## Honors
 
+- National Scholarship (2025–2026 academic year), 2026
 - National First Prize, "Challenge Cup" Competition, 2025
 - Bronze Medal, ICPC China Invitational, 2025
 - Academic Potential 1st Prize, SJTU Summer School, 2025
