@@ -1,6 +1,6 @@
 # Weijue Bu
 
-Incoming graduate student at the **[Institute of Trustworthy Embodied Artificial Intelligence (TEAI)](https://teai.fudan.edu.cn/)**, [Fudan University](https://www.fudan.edu.cn/). Currently a computer science undergraduate at [China University of Mining and Technology](https://www.cumt.edu.cn/). From December 2025 to August 2026 I was a research intern at Tsinghua Shenzhen International Graduate School (Prof. Zhi Wang's group).
+Incoming graduate student at the **[Institute of Trustworthy Embodied Artificial Intelligence (TEAI)](https://teai.fudan.edu.cn/)**, [Fudan University](https://www.fudan.edu.cn/). Currently a computer science undergraduate at [China University of Mining and Technology](https://www.cumt.edu.cn/). From December 2025 to August 2026 I was a research intern at Tsinghua Shenzhen International Graduate School.
 
 <a href="https://www.fudan.edu.cn/"><img src="assets/fudan-emblem.png" alt="Fudan University" height="52"></a>&nbsp;&nbsp;&nbsp;<a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied Artificial Intelligence, Fudan University" height="52"></a>
 
@@ -46,7 +46,7 @@ Under review
 
 ## Experience
 
-**Research Intern**, Tsinghua Shenzhen International Graduate School — Prof. Zhi Wang's group<br>
+**Research Intern**, Tsinghua Shenzhen International Graduate School<br>
 *2025.12 – 2026.08*
 Long-horizon robotic manipulation and vision-language-model-based planning. Built the RLBench / SIMPLER evaluation pipeline and designed long- and short-horizon task suites; co-developed RoboStream (ECCV 2026) and worked on VLA execution-state memory.
 
