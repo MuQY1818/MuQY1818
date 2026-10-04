@@ -37,7 +37,7 @@ Donghong Xu, **Weijue Bu**, Zhouliang Ye, Shilong Wu<br>
 *IEEE Transactions on Cloud Computing, 2026* · [Code](https://github.com/MuQY1818/calo-experiments)
 
 **ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation**<br>
-Under review
+Under review · [Project Page](https://muqy1818.github.io/chainvla-web/)
 
 **PiN-Mod: Identity-Consistent Personalized Image Generation**<br>
 Under review
