@@ -58,9 +58,15 @@ Long-horizon robotic manipulation and vision-language-model-based planning. Buil
 ## Honors
 
 - National Scholarship (2025–2026 academic year), 2026
+- Second Prize, 15th "China Software Cup" Collegiate Software Design Contest, National Finals, 2026
 - National First Prize, "Challenge Cup" Competition, 2025
-- Bronze Medal, ICPC China Invitational, 2025
+- 15th Place, Tianchi Alibaba Mobile Recommendation Algorithm Challenge, 2025
 - Academic Potential 1st Prize, SJTU Summer School, 2025
+- Second Prize, RAICOM Jiangsu Division Programming Skills Competition, 2025
+- Bronze Medal, ICPC China Invitational, 2025
+- Second Prize (Provincial), Lanqiao Cup C/C++ Programming, 2025
+- Second Prize (Provincial), Jiangsu Higher Mathematics Competition, 2024
+- Third Prize (National), GPLT Group Programming Ladder Tournament, 2024
 
 ## Tools
 
