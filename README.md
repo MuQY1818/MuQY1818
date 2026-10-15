@@ -55,8 +55,10 @@ Under review
 *Starts October 26, 2026*<br>
 Incoming internship focused on embodied AI post-training.
 
-**Research Intern**, Tsinghua Shenzhen International Graduate School<br>
-*2025.12 – 2026.08*
+<a href="https://www.tsinghua.edu.cn/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tsinghua-logo-dark.svg"><img src="assets/tsinghua-logo.svg" alt="Tsinghua University" width="200"></picture></a>
+
+**Research Intern**, [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/)<br>
+*2025.12 – 2026.08*<br>
 Long-horizon robotic manipulation and vision-language-model-based planning. Built the RLBench / SIMPLER evaluation pipeline and designed long- and short-horizon task suites; co-developed RoboStream (ECCV 2026) and worked on VLA execution-state memory.
 
 ## Education
