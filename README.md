@@ -2,6 +2,8 @@
 
 Incoming graduate student at the **[Institute of Trustworthy Embodied Artificial Intelligence (TEAI)](https://teai.fudan.edu.cn/)**, [Fudan University](https://www.fudan.edu.cn/). Currently a computer science undergraduate at [China University of Mining and Technology](https://www.cumt.edu.cn/). From December 2025 to August 2026 I was a research intern at Tsinghua Shenzhen International Graduate School.
 
+Joining **[Noematrix](https://www.noematrix.ai/)** as an **Embodied AI Algorithm Intern** on **October 26, 2026**.
+
 <a href="https://www.fudan.edu.cn/"><img src="assets/fudan-emblem.png" alt="Fudan University" height="52"></a>&nbsp;&nbsp;&nbsp;<a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied Artificial Intelligence, Fudan University" height="52"></a>
 
 [Homepage](https://muqy1818.github.io/) · [Blog](https://muqy1818.github.io/blog.html) · [Email](mailto:weijue@cumt.edu.cn) · [GitHub](https://github.com/muqy1818)
@@ -16,6 +18,7 @@ Alongside the algorithmic work, I have hands-on experience with physical platfor
 
 ## News
 
+- **2026.10** — Joining **[Noematrix](https://www.noematrix.ai/)** as an **Embodied AI Algorithm Intern** on October 26, 2026.
 - **2026.10** — Awarded the **National Scholarship** (2025–2026 academic year).
 - **2026.09** — Admitted to the Institute of Trustworthy Embodied Artificial Intelligence (TEAI), Fudan University, as an incoming graduate student.
 - **2026.07** — **RoboStream** accepted to **ECCV 2026**.
@@ -45,6 +48,12 @@ Under review
 \* Equal contribution.
 
 ## Experience
+
+<a href="https://www.noematrix.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/noematrix-logo-dark.png"><img src="assets/noematrix-logo.png" alt="Noematrix" width="200"></picture></a>
+
+**Incoming Embodied AI Algorithm Intern**, [Noematrix](https://www.noematrix.ai/), Shanghai<br>
+*Starts October 26, 2026*<br>
+Incoming internship focused on embodied AI post-training.
 
 **Research Intern**, Tsinghua Shenzhen International Graduate School<br>
 *2025.12 – 2026.08*
