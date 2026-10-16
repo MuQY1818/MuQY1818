@@ -6,7 +6,7 @@ Joining **[Noematrix](https://www.noematrix.ai/)** as an **Embodied AI Algorithm
 
 <a href="https://www.fudan.edu.cn/"><img src="assets/fudan-emblem.png" alt="Fudan University" height="52"></a>&nbsp;&nbsp;&nbsp;<a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied Artificial Intelligence, Fudan University" height="52"></a>
 
-[Homepage](https://muqy1818.github.io/) · [Blog](https://muqy1818.github.io/blog.html) · [Email](mailto:weijue@cumt.edu.cn) · [GitHub](https://github.com/muqy1818)
+[Homepage](https://muqy1818.github.io/) · [Blog](https://muqy1818.github.io/blog.html) · [Email](mailto:weijue1215@163.com) · [GitHub](https://github.com/muqy1818)
 
 ## Research
 
