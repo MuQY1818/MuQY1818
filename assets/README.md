@@ -1,4 +1,4 @@
-# Experience logos
+# Profile artwork
 
 ## Noematrix
 
@@ -14,3 +14,8 @@
 - Extracted the five complete original vector paths with their fills, proportions, spacing and transforms preserved. The SVG viewport includes clear space of twice one-fifteenth of the emblem diameter on each side.
 - The dark-theme asset adds a white backing without recolouring or clipping the official artwork.
 - Both experience logos display at 200px wide in the profile README and link to their institutions.
+
+## OpenYoink
+
+- Source: `https://github.com/MuQY1818/OpenYoink/blob/main/OpenYoink/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png`.
+- The original 256 × 256 PNG is reused unchanged as `openyoink-icon.png`, preserving transparency; it displays at 64px wide in the Open Source section.

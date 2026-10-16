@@ -47,6 +47,15 @@ Under review
 
 \* Equal contribution.
 
+## Open Source
+
+<a href="https://muqy1818.github.io/OpenYoink/en/"><img src="assets/openyoink-icon.png" alt="OpenYoink icon" width="64"></a>
+
+**[OpenYoink](https://github.com/MuQY1818/OpenYoink)** — A free, open-source macOS drag-and-drop shelf and Dynamic Island for files, images, text, and links, with Quick Look previews, optional clipboard history, and multi-display support.
+
+SwiftUI · AppKit · macOS · MIT License<br>
+[Website](https://muqy1818.github.io/OpenYoink/en/) · [Code](https://github.com/MuQY1818/OpenYoink) · [Download](https://github.com/MuQY1818/OpenYoink/releases/latest)
+
 ## Experience
 
 <a href="https://www.noematrix.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/noematrix-logo-dark.png"><img src="assets/noematrix-logo.png" alt="Noematrix" width="200"></picture></a>
