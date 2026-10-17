@@ -14,8 +14,6 @@ My research asks how vision-language models can reason about the physical world 
 
 My current focus is **agentic robotics** and **embodied reasoning** — vision-language models that reason about the physical world and drive robots through long-horizon manipulation tasks. Longer term, I want to work on **RSI (recursive self-improvement) in Embodied AI**.
 
-Alongside the algorithmic work, I have hands-on experience with physical platforms: teleoperation data collection and π0 fine-tuning on an SO-101 arm, and locomotion policy training for Unitree G1 / Go2 in MuJoCo.
-
 ## News
 
 - **2026.10** — Joining **[Noematrix](https://www.noematrix.ai/)** as an **Embodied AI Algorithm Intern** on October 26, 2026.
