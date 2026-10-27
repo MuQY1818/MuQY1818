@@ -2,7 +2,7 @@
 
 Incoming graduate student at the **[Institute of Trustworthy Embodied Artificial Intelligence (TEAI)](https://teai.fudan.edu.cn/)**, [Fudan University](https://www.fudan.edu.cn/). Currently a computer science undergraduate at [China University of Mining and Technology](https://www.cumt.edu.cn/). From December 2025 to August 2026 I was a research intern at Tsinghua Shenzhen International Graduate School.
 
-Joining **[Noematrix](https://www.noematrix.ai/)** as an **Embodied AI Algorithm Intern** on **October 26, 2026**.
+I am currently an **Embodied AI Algorithm Intern at [Noematrix](https://www.noematrix.ai/)** in Shanghai, having joined on **October 26, 2026**.
 
 <a href="https://www.fudan.edu.cn/"><img src="assets/fudan-emblem.png" alt="Fudan University" height="52"></a>&nbsp;&nbsp;&nbsp;<a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied Artificial Intelligence, Fudan University" height="52"></a>
 
@@ -16,7 +16,7 @@ My current focus is **agentic robotics** and **embodied reasoning** — vision-l
 
 ## News
 
-- **2026.10** — Joining **[Noematrix](https://www.noematrix.ai/)** as an **Embodied AI Algorithm Intern** on October 26, 2026.
+- **2026.10** — Joined **[Noematrix](https://www.noematrix.ai/)** as an **Embodied AI Algorithm Intern**.
 - **2026.10** — Awarded the **National Scholarship** (2025–2026 academic year).
 - **2026.09** — Admitted to the Institute of Trustworthy Embodied Artificial Intelligence (TEAI), Fudan University, as an incoming graduate student.
 - **2026.07** — **RoboStream** accepted to **ECCV 2026**.
@@ -58,9 +58,9 @@ SwiftUI · AppKit · macOS · MIT License<br>
 
 <a href="https://www.noematrix.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/noematrix-logo-dark.png"><img src="assets/noematrix-logo.png" alt="Noematrix" width="200"></picture></a>
 
-**Incoming Embodied AI Algorithm Intern**, [Noematrix](https://www.noematrix.ai/), Shanghai<br>
-*Starts October 26, 2026*<br>
-Incoming internship focused on embodied AI post-training.
+**Embodied AI Algorithm Intern**, [Noematrix](https://www.noematrix.ai/), Shanghai<br>
+*2026.10 – present*<br>
+Working on embodied AI post-training.
 
 <a href="https://www.tsinghua.edu.cn/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tsinghua-logo-dark.svg"><img src="assets/tsinghua-logo.svg" alt="Tsinghua University" width="200"></picture></a>
 
