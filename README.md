@@ -64,12 +64,28 @@ Yuzhi Huang, Jie Wu, Fanding Huang, …, **Weijue Bu**, …, Jingyan Jiang, Zhi 
 
 ## Experience
 
-| | | |
-|:-:|---|---|
-| <a href="https://www.noematrix.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/noematrix-logo-dark.png"><img src="assets/noematrix-logo.png" alt="Noematrix" width="150"></picture></a> | **Embodied AI Algorithm Intern**, Noematrix<br><sub>VLA post-training</sub> | 2026.10 – now |
-| <a href="https://www.sigs.tsinghua.edu.cn/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tsinghua-logo-dark.svg"><img src="assets/tsinghua-logo.svg" alt="Tsinghua University" width="150"></picture></a> | **Research Intern**, Tsinghua SIGS<br><sub>ChainVLA, RoboStream; RLBench / SIMPLER evaluation pipeline</sub> | 2025.12 – 2026.08 |
-| <a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied AI, Fudan University" width="150"></a> | **Incoming graduate student**, Fudan TEAI | 2027 – |
-| <a href="https://www.cumt.edu.cn/"><img src="assets/cumt-logo.png" alt="China University of Mining and Technology" width="150"></a> | **B.Eng. in Computer Science**, China University of Mining and Technology | 2023 – 2027 |
+<table>
+  <tr>
+    <td align="center" width="170"><a href="https://www.noematrix.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/noematrix-logo-dark.png"><img src="assets/noematrix-logo.png" alt="Noematrix" width="150"></picture></a></td>
+    <td><b>Embodied AI Algorithm Intern</b>, Noematrix<br><sub>VLA post-training</sub></td>
+    <td><sub>2026.10 – now</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><a href="https://www.sigs.tsinghua.edu.cn/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tsinghua-logo-dark.svg"><img src="assets/tsinghua-logo.svg" alt="Tsinghua University" width="150"></picture></a></td>
+    <td><b>Research Intern</b>, Tsinghua SIGS<br><sub>ChainVLA, RoboStream; RLBench / SIMPLER evaluation pipeline</sub></td>
+    <td><sub>2025.12 – 2026.08</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied AI, Fudan University" width="150"></a></td>
+    <td><b>Incoming graduate student</b>, Fudan TEAI</td>
+    <td><sub>2027 –</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><a href="https://www.cumt.edu.cn/"><img src="assets/cumt-logo.png" alt="China University of Mining and Technology" width="150"></a></td>
+    <td><b>B.Eng. in Computer Science</b>, China University of Mining and Technology</td>
+    <td><sub>2023 – 2027</sub></td>
+  </tr>
+</table>
 
 ## News
 
