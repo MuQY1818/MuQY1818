@@ -1,45 +1,48 @@
-<h1 align="center">Weijue Bu</h1>
+<a href="https://muqy1818.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/svg/header-dark.svg"><img src="assets/svg/header-light.svg" alt="Weijue Bu — Vision-language-action models for long-horizon manipulation. Embodied AI Algorithm Intern at Noematrix, incoming graduate student at Fudan TEAI."></picture></a>
 
-<p align="center">
-  <b>Vision-language-action models for long-horizon manipulation</b><br>
-  Embodied AI Algorithm Intern @ <a href="https://www.noematrix.ai/">Noematrix</a> · Incoming graduate student @ <a href="https://teai.fudan.edu.cn/">Fudan TEAI</a>
-</p>
+[Homepage](https://muqy1818.github.io/) &nbsp;/&nbsp; [Google Scholar](https://scholar.google.com/citations?user=GHxEFRYAAAAJ) &nbsp;/&nbsp; [Email](mailto:weijue1215@163.com) &nbsp;/&nbsp; [Blog](https://muqy1818.github.io/blog.html)
 
-<p align="center">
-  <a href="https://muqy1818.github.io/">Homepage</a> ·
-  <a href="https://scholar.google.com/citations?user=GHxEFRYAAAAJ">Google Scholar</a> ·
-  <a href="mailto:weijue1215@163.com">Email</a> ·
-  <a href="https://muqy1818.github.io/blog.html">Blog</a>
-</p>
-
----
-
-I work on **VLA policies that are fast enough for closed-loop control and still keep track of what they have done over a long task**.
-
-- **Now** · post-training VLA models at **[Noematrix](https://www.noematrix.ai/)**, Shanghai
-- **Next** · graduate study at the **[Institute of Trustworthy Embodied AI (TEAI)](https://teai.fudan.edu.cn/)**, Fudan University
-- **Before** · research intern at **[Tsinghua SIGS](https://www.sigs.tsinghua.edu.cn/)**, co-first author of ChainVLA and RoboStream (ECCV 2026)
-- **Long term** · **RSI (recursive self-improvement) in Embodied AI**, policies that keep improving from their own experience
+I build VLA policies that stay fast enough for closed-loop control but still remember what they have done over a long task. Right now that means post-training VLA models at [Noematrix](https://www.noematrix.ai/); next year I start graduate study at [Fudan TEAI](https://teai.fudan.edu.cn/). Before this I was at [Tsinghua SIGS](https://www.sigs.tsinghua.edu.cn/), where I was co-first author of ChainVLA and RoboStream. The longer-term question I care about is **recursive self-improvement in embodied AI**: robots that get better from their own experience.
 
 ## Research
 
-| | Theme | Work |
-|:-:|---|---|
-| 01 | **Execution state across action chunks**<br><sub>Keeping a fast, chunked VLA policy aware of task progress and of the motion it was in the middle of.</sub> | [ChainVLA](https://muqy1818.github.io/chainvla-web/) |
-| 02 | **Memory for long-horizon manipulation**<br><sub>How does a robot on step twelve still know what steps one to eleven achieved, and what is left?</sub> | [RoboStream](https://robostream123.github.io/) |
-| 03 | **VLA post-training** · *now*<br><sub>Post-training VLA policies, a step toward robots that improve from their own rollouts.</sub> | Noematrix |
-| 04 | **Diagnosing mind and action**<br><sub>When a policy fails, did it misunderstand the task, or fail to execute it?</sub> | [Mind2Act World](https://mind2act-world.com/) |
+<p>
+  <a href="https://muqy1818.github.io/chainvla-web/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/svg/research-01-dark.svg"><img src="assets/svg/research-01-light.svg" alt="01 Execution state across action chunks (ChainVLA)" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://robostream123.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/svg/research-02-dark.svg"><img src="assets/svg/research-02-light.svg" alt="02 Memory for long-horizon manipulation (RoboStream)" width="48%"></picture></a>
+</p>
+<p>
+  <a href="https://www.noematrix.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/svg/research-03-dark.svg"><img src="assets/svg/research-03-light.svg" alt="03 VLA post-training (Noematrix, now)" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://mind2act-world.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/svg/research-04-dark.svg"><img src="assets/svg/research-04-light.svg" alt="04 Diagnosing mind and action (Mind2Act World)" width="48%"></picture></a>
+</p>
 
 ## Selected publications
 
-**ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation**<br>
-**Weijue Bu**\*, et al. · *Under review* · [Project Page](https://muqy1818.github.io/chainvla-web/)
-
-**RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics**<br>
-Yuzhi Huang\*, Jie Wu\*, **Weijue Bu**\*, et al. · *ECCV 2026* · [Project Page](https://robostream123.github.io/) · [Code](https://github.com/yu2hi13/RoboStream) · [arXiv](https://arxiv.org/abs/2603.12939)
-
-**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**<br>
-Yuzhi Huang, Jie Wu, Fanding Huang, …, **Weijue Bu**, …, Jingyan Jiang, Zhi Wang · *arXiv 2026* · [Project Page](https://mind2act-world.com/) · [Code](https://github.com/Mind2Act/Mind2Act_World) · [arXiv](https://arxiv.org/abs/2611.26444)
+<table>
+  <tr>
+    <td width="220" valign="top"><a href="https://muqy1818.github.io/chainvla-web/"><img src="assets/papers/chainvla.jpg" alt="ChainVLA" width="220"></a></td>
+    <td valign="top">
+      <b><a href="https://muqy1818.github.io/chainvla-web/">ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation</a></b><br>
+      <b>Weijue Bu</b>*, et al.<br>
+      <i>Under review</i> · <a href="https://muqy1818.github.io/chainvla-web/">Project Page</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="220" valign="top"><a href="https://robostream123.github.io/"><img src="assets/papers/robostream.jpg" alt="RoboStream" width="220"></a></td>
+    <td valign="top">
+      <b><a href="https://robostream123.github.io/">RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics</a></b><br>
+      Yuzhi Huang*, Jie Wu*, <b>Weijue Bu</b>*, et al.<br>
+      <i>ECCV 2026</i> · <a href="https://robostream123.github.io/">Project Page</a> · <a href="https://github.com/yu2hi13/RoboStream">Code</a> · <a href="https://arxiv.org/abs/2603.12939">arXiv</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="220" valign="top"><a href="https://mind2act-world.com/"><img src="assets/papers/mind2act.jpg" alt="Mind2Act World" width="220"></a></td>
+    <td valign="top">
+      <b><a href="https://mind2act-world.com/">Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation</a></b><br>
+      Yuzhi Huang, Jie Wu, Fanding Huang, …, <b>Weijue Bu</b>, …, Jingyan Jiang, Zhi Wang<br>
+      <i>arXiv 2026</i> · <a href="https://mind2act-world.com/">Project Page</a> · <a href="https://github.com/Mind2Act/Mind2Act_World">Code</a> · <a href="https://arxiv.org/abs/2611.26444">arXiv</a>
+    </td>
+  </tr>
+</table>
 
 <sub>Also: [Conscious Gaze](https://arxiv.org/abs/2512.05546) (ICME 2026, first author) · [CALO](https://github.com/MuQY1818/calo-experiments) (IEEE TCC 2026) · PiN-Mod (under review) · \* equal contribution</sub>
 
@@ -48,13 +51,13 @@ Yuzhi Huang, Jie Wu, Fanding Huang, …, **Weijue Bu**, …, Jingyan Jiang, Zhi 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/MuQY1818/macbot"><img src="assets/macbot-mark.svg" alt="macbot" width="56"></a><br>
+      <a href="https://github.com/MuQY1818/macbot"><img src="assets/macbot-mark.svg" alt="macbot" width="48"></a><br>
       <b><a href="https://github.com/MuQY1818/macbot">macbot</a></b><br>
       LeRobot on a MacBook: teleoperate, record, export and run ACT, π0.5 and SmolVLA, with fast inference on Apple silicon (π0.5 at ~165 ms per action chunk with MLX).<br>
       <sub>Python · LeRobot · MLX · Apache-2.0 · <a href="https://pypi.org/project/macbot/">PyPI</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://muqy1818.github.io/OpenYoink/en/"><img src="assets/openyoink-icon.png" alt="OpenYoink" width="56"></a><br>
+      <a href="https://muqy1818.github.io/OpenYoink/en/"><img src="assets/openyoink-icon.png" alt="OpenYoink" width="48"></a><br>
       <b><a href="https://github.com/MuQY1818/OpenYoink">OpenYoink</a></b><br>
       A free macOS drag-and-drop shelf and Dynamic Island for files, images, text and links, with Quick Look previews and multi-display support.<br>
       <sub>SwiftUI · AppKit · MIT · <a href="https://github.com/MuQY1818/OpenYoink/releases/latest">Download</a></sub>
@@ -111,4 +114,6 @@ National Scholarship (2026) · National First Prize, "Challenge Cup" (2025) · A
 
 </details>
 
-<sub>PyTorch · LeRobot · JAX · MLX · MuJoCo · RLBench · LIBERO · SIMPLER · ROS · Docker</sub>
+<sub>Tools I use most: PyTorch · LeRobot · JAX · MLX · MuJoCo · RLBench · LIBERO · SIMPLER · ROS · Docker</sub>
+
+<p align="right"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/svg/signature-dark.svg"><img src="assets/svg/signature-light.svg" alt="Signed, Weijue Bu" width="150"></picture></p>

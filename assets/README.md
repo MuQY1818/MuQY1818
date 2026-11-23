@@ -32,3 +32,11 @@
 ## Fudan University
 
 - Same asset as the homepage Experience card: the official white monochrome logo from `https://www.fudan.edu.cn/_upload/site/00/02/2/logo.png`, recoloured to Fudan blue `#0E419C` (near-white pixels only, so the source drop shadow does not turn into a halo) and trimmed to 221 × 64. It displays at 150px wide in the Experience table; `teai-logo.svg` is kept in the repo but no longer used there.
+
+## Header, research items and signature (`svg/`)
+
+- Generated from the homepage (muqy1818.github.io): the avatar, the self-hosted Newsreader / Inter / Zhi Mang Xing fonts (subset and embedded), the four research themes, and the hand-drawn signature paths from the Reflections section. Light and dark versions are switched with `<picture>`.
+
+## Paper thumbnails (`papers/`)
+
+- Same thumbnails as the homepage publication list (`static/assets/img/Papers/thumbs/`).
