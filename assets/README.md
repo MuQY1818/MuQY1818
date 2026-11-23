@@ -19,3 +19,12 @@
 
 - Source: `https://github.com/MuQY1818/OpenYoink/blob/main/OpenYoink/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png`.
 - The original 256 × 256 PNG is reused unchanged as `openyoink-icon.png`, preserving transparency; it displays at 64px wide in the Open Source section.
+
+## macbot
+
+- Source: `https://github.com/MuQY1818/macbot/blob/main/assets/logo-mark.svg` (the project's own pixel-art mark, rectangles only).
+- Reused unchanged as `macbot-mark.svg`; it displays at 64px wide in the Open Source section.
+
+## China University of Mining and Technology
+
+- Same asset as the homepage: the official monochrome wordmark from `https://www.cumt.edu.cn/images/logo.png`, recoloured to CUMT blue `#00549f` with alpha kept. It displays at 150px wide in the Experience table.

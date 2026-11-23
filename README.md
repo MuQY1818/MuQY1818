@@ -1,91 +1,98 @@
-# Weijue Bu
+<h1 align="center">Weijue Bu</h1>
 
-Incoming graduate student at the **[Institute of Trustworthy Embodied Artificial Intelligence (TEAI)](https://teai.fudan.edu.cn/)**, [Fudan University](https://www.fudan.edu.cn/). Currently a computer science undergraduate at [China University of Mining and Technology](https://www.cumt.edu.cn/). From December 2025 to August 2026 I was a research intern at Tsinghua Shenzhen International Graduate School.
+<p align="center">
+  <b>Vision-language-action models for long-horizon manipulation</b><br>
+  Embodied AI Algorithm Intern @ <a href="https://www.noematrix.ai/">Noematrix</a> · Incoming graduate student @ <a href="https://teai.fudan.edu.cn/">Fudan TEAI</a>
+</p>
 
-I am currently an **Embodied AI Algorithm Intern at [Noematrix](https://www.noematrix.ai/)** in Shanghai, having joined on **October 26, 2026**.
+<p align="center">
+  <a href="https://muqy1818.github.io/">Homepage</a> ·
+  <a href="https://scholar.google.com/citations?user=GHxEFRYAAAAJ">Google Scholar</a> ·
+  <a href="mailto:weijue1215@163.com">Email</a> ·
+  <a href="https://muqy1818.github.io/blog.html">Blog</a>
+</p>
 
-<a href="https://www.fudan.edu.cn/"><img src="assets/fudan-emblem.png" alt="Fudan University" height="52"></a>&nbsp;&nbsp;&nbsp;<a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied Artificial Intelligence, Fudan University" height="52"></a>
+---
 
-[Homepage](https://muqy1818.github.io/) · [Blog](https://muqy1818.github.io/blog.html) · [Email](mailto:weijue1215@163.com) · [GitHub](https://github.com/muqy1818)
+I work on **VLA policies that are fast enough for closed-loop control and still keep track of what they have done over a long task**.
+
+- **Now** · post-training VLA models at **[Noematrix](https://www.noematrix.ai/)**, Shanghai
+- **Next** · graduate study at the **[Institute of Trustworthy Embodied AI (TEAI)](https://teai.fudan.edu.cn/)**, Fudan University
+- **Before** · research intern at **[Tsinghua SIGS](https://www.sigs.tsinghua.edu.cn/)**, co-first author of ChainVLA and RoboStream (ECCV 2026)
+- **Long term** · **RSI (recursive self-improvement) in Embodied AI**, policies that keep improving from their own experience
 
 ## Research
 
-My research asks how vision-language models can reason about the physical world and act over long horizons, when visual evidence is grounded in 3D geometry and carried across an episode as persistent memory.
+| | Theme | Work |
+|:-:|---|---|
+| 01 | **Execution state across action chunks**<br><sub>Keeping a fast, chunked VLA policy aware of task progress and of the motion it was in the middle of.</sub> | [ChainVLA](https://muqy1818.github.io/chainvla-web/) |
+| 02 | **Memory for long-horizon manipulation**<br><sub>How does a robot on step twelve still know what steps one to eleven achieved, and what is left?</sub> | [RoboStream](https://robostream123.github.io/) |
+| 03 | **VLA post-training** · *now*<br><sub>Post-training VLA policies, a step toward robots that improve from their own rollouts.</sub> | Noematrix |
+| 04 | **Diagnosing mind and action**<br><sub>When a policy fails, did it misunderstand the task, or fail to execute it?</sub> | [Mind2Act World](https://mind2act-world.com/) |
 
-My current focus is **agentic robotics** and **embodied reasoning** — vision-language models that reason about the physical world and drive robots through long-horizon manipulation tasks. Longer term, I want to work on **RSI (recursive self-improvement) in Embodied AI**.
-
-## News
-
-- **2026.10** — Joined **[Noematrix](https://www.noematrix.ai/)** as an **Embodied AI Algorithm Intern**.
-- **2026.10** — Awarded the **National Scholarship** (2025–2026 academic year).
-- **2026.09** — Admitted to the Institute of Trustworthy Embodied Artificial Intelligence (TEAI), Fudan University, as an incoming graduate student.
-- **2026.07** — **RoboStream** accepted to **ECCV 2026**.
-- **2026.07** — **CALO** accepted to *IEEE Transactions on Cloud Computing*.
-- **2026.03** — **Conscious Gaze** accepted to **ICME 2026**.
-
-## Publications
-
-**RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics**<br>
-Yuzhi Huang\*, Jie Wu\*, **Weijue Bu**\*, Ziyi Xiong, Gaoyang Jiang, Ye Li, Kangye Ji, Shuzhao Xie, Yue Huang, Chenglei Wu, Jingyan Jiang, Zhi Wang<br>
-*ECCV 2026* · [Project Page](https://robostream123.github.io/) · [Code](https://github.com/yu2hi13/RoboStream) · [arXiv](https://arxiv.org/abs/2603.12939)
-
-**Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models**<br>
-**Weijue Bu**, Guan Yuan, Guixian Zhang<br>
-*ICME 2026* · [arXiv](https://arxiv.org/abs/2512.05546)
-
-**CALO: Code-Aware and Load-Aware Resource Configuration for Serverless Functions via Deep Reinforcement Learning**<br>
-Donghong Xu, **Weijue Bu**, Zhouliang Ye, Shilong Wu<br>
-*IEEE Transactions on Cloud Computing, 2026* · [Code](https://github.com/MuQY1818/calo-experiments)
+## Selected publications
 
 **ChainVLA: Chaining Vision-Language-Action Queries through a Unified Execution State for Long-Horizon Manipulation**<br>
-Under review · [Project Page](https://muqy1818.github.io/chainvla-web/)
+**Weijue Bu**\*, et al. · *Under review* · [Project Page](https://muqy1818.github.io/chainvla-web/)
 
-**PiN-Mod: Identity-Consistent Personalized Image Generation**<br>
-Under review
+**RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics**<br>
+Yuzhi Huang\*, Jie Wu\*, **Weijue Bu**\*, et al. · *ECCV 2026* · [Project Page](https://robostream123.github.io/) · [Code](https://github.com/yu2hi13/RoboStream) · [arXiv](https://arxiv.org/abs/2603.12939)
 
-\* Equal contribution.
+**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**<br>
+Yuzhi Huang, Jie Wu, Fanding Huang, …, **Weijue Bu**, …, Jingyan Jiang, Zhi Wang · *arXiv 2026* · [Project Page](https://mind2act-world.com/) · [Code](https://github.com/Mind2Act/Mind2Act_World) · [arXiv](https://arxiv.org/abs/2611.26444)
 
-## Open Source
+<sub>Also: [Conscious Gaze](https://arxiv.org/abs/2512.05546) (ICME 2026, first author) · [CALO](https://github.com/MuQY1818/calo-experiments) (IEEE TCC 2026) · PiN-Mod (under review) · \* equal contribution</sub>
 
-<a href="https://muqy1818.github.io/OpenYoink/en/"><img src="assets/openyoink-icon.png" alt="OpenYoink icon" width="64"></a>
+## Open source
 
-**[OpenYoink](https://github.com/MuQY1818/OpenYoink)** — A free, open-source macOS drag-and-drop shelf and Dynamic Island for files, images, text, and links, with Quick Look previews, optional clipboard history, and multi-display support.
-
-SwiftUI · AppKit · macOS · MIT License<br>
-[Website](https://muqy1818.github.io/OpenYoink/en/) · [Code](https://github.com/MuQY1818/OpenYoink) · [Download](https://github.com/MuQY1818/OpenYoink/releases/latest)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MuQY1818/macbot"><img src="assets/macbot-mark.svg" alt="macbot" width="56"></a><br>
+      <b><a href="https://github.com/MuQY1818/macbot">macbot</a></b><br>
+      LeRobot on a MacBook: teleoperate, record, export and run ACT, π0.5 and SmolVLA, with fast inference on Apple silicon (π0.5 at ~165 ms per action chunk with MLX).<br>
+      <sub>Python · LeRobot · MLX · Apache-2.0 · <a href="https://pypi.org/project/macbot/">PyPI</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://muqy1818.github.io/OpenYoink/en/"><img src="assets/openyoink-icon.png" alt="OpenYoink" width="56"></a><br>
+      <b><a href="https://github.com/MuQY1818/OpenYoink">OpenYoink</a></b><br>
+      A free macOS drag-and-drop shelf and Dynamic Island for files, images, text and links, with Quick Look previews and multi-display support.<br>
+      <sub>SwiftUI · AppKit · MIT · <a href="https://github.com/MuQY1818/OpenYoink/releases/latest">Download</a></sub>
+    </td>
+  </tr>
+</table>
 
 ## Experience
 
-<a href="https://www.noematrix.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/noematrix-logo-dark.png"><img src="assets/noematrix-logo.png" alt="Noematrix" width="200"></picture></a>
+| | | |
+|:-:|---|---|
+| <a href="https://www.noematrix.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/noematrix-logo-dark.png"><img src="assets/noematrix-logo.png" alt="Noematrix" width="150"></picture></a> | **Embodied AI Algorithm Intern**, Noematrix<br><sub>VLA post-training</sub> | 2026.10 – now |
+| <a href="https://www.sigs.tsinghua.edu.cn/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tsinghua-logo-dark.svg"><img src="assets/tsinghua-logo.svg" alt="Tsinghua University" width="150"></picture></a> | **Research Intern**, Tsinghua SIGS<br><sub>ChainVLA, RoboStream; RLBench / SIMPLER evaluation pipeline</sub> | 2025.12 – 2026.08 |
+| <a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied AI, Fudan University" width="150"></a> | **Incoming graduate student**, Fudan TEAI | 2027 – |
+| <a href="https://www.cumt.edu.cn/"><img src="assets/cumt-logo.png" alt="China University of Mining and Technology" width="150"></a> | **B.Eng. in Computer Science**, China University of Mining and Technology | 2023 – 2027 |
 
-**Embodied AI Algorithm Intern**, [Noematrix](https://www.noematrix.ai/), Shanghai<br>
-*2026.10 – present*<br>
-Working on embodied AI post-training.
+## News
 
-<a href="https://www.tsinghua.edu.cn/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tsinghua-logo-dark.svg"><img src="assets/tsinghua-logo.svg" alt="Tsinghua University" width="200"></picture></a>
-
-**Research Intern**, [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/)<br>
-*2025.12 – 2026.08*<br>
-Long-horizon robotic manipulation and vision-language-model-based planning. Built the RLBench / SIMPLER evaluation pipeline and designed long- and short-horizon task suites; co-developed RoboStream (ECCV 2026) and worked on VLA execution-state memory.
-
-## Education
-
-- **Fudan University** — Institute of Trustworthy Embodied Artificial Intelligence (TEAI), incoming graduate student
-- **China University of Mining and Technology** — undergraduate in computer science, 2023 – present
+- **2026.11** · Mind2Act World is on [arXiv](https://arxiv.org/abs/2611.26444), with benchmark code on [GitHub](https://github.com/Mind2Act/Mind2Act_World)
+- **2026.11** · Released [macbot](https://github.com/MuQY1818/macbot), LeRobot and VLA inference on a MacBook
+- **2026.10** · Joined Noematrix as an Embodied AI Algorithm Intern
+- **2026.10** · Awarded the National Scholarship
+- **2026.07** · RoboStream accepted to ECCV 2026
 
 ## Honors
 
-- National Scholarship (2025–2026 academic year), 2026
-- Second Prize, 15th "China Software Cup" Collegiate Software Design Contest, National Finals, 2026
-- National First Prize, "Challenge Cup" Competition, 2025
+National Scholarship (2026) · National First Prize, "Challenge Cup" (2025) · Academic Potential 1st Prize, SJTU Summer School (2025) · Bronze Medal, ICPC China Invitational (2025)
+
+<details>
+<summary>More contests</summary>
+
+- Second Prize, 15th "China Software Cup", National Finals, 2026
 - 15th Place, Tianchi Alibaba Mobile Recommendation Algorithm Challenge, 2025
-- Academic Potential 1st Prize, SJTU Summer School, 2025
 - Second Prize, RAICOM Jiangsu Division Programming Skills Competition, 2025
-- Bronze Medal, ICPC China Invitational, 2025
 - Second Prize (Provincial), Lanqiao Cup C/C++ Programming, 2025
 - Second Prize (Provincial), Jiangsu Higher Mathematics Competition, 2024
 - Third Prize (National), GPLT Group Programming Ladder Tournament, 2024
 
-## Tools
+</details>
 
-PyTorch · JAX · MuJoCo · ROS · RLBench · LIBERO · SIMPLER · Docker · Linux
+<sub>PyTorch · LeRobot · JAX · MLX · MuJoCo · RLBench · LIBERO · SIMPLER · ROS · Docker</sub>
