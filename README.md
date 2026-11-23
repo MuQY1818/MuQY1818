@@ -76,7 +76,7 @@ Yuzhi Huang, Jie Wu, Fanding Huang, …, **Weijue Bu**, …, Jingyan Jiang, Zhi 
     <td><sub>2025.12 – 2026.08</sub></td>
   </tr>
   <tr>
-    <td align="center" width="170"><a href="https://teai.fudan.edu.cn/"><img src="assets/teai-logo.svg" alt="Institute of Trustworthy Embodied AI, Fudan University" width="150"></a></td>
+    <td align="center" width="170"><a href="https://teai.fudan.edu.cn/"><img src="assets/fudan-logo.png" alt="Fudan University" width="150"></a></td>
     <td><b>Incoming graduate student</b>, Fudan TEAI</td>
     <td><sub>2027 –</sub></td>
   </tr>

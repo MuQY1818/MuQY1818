@@ -28,3 +28,7 @@
 ## China University of Mining and Technology
 
 - Same asset as the homepage: the official monochrome wordmark from `https://www.cumt.edu.cn/images/logo.png`, recoloured to CUMT blue `#00549f` with alpha kept. It displays at 150px wide in the Experience table.
+
+## Fudan University
+
+- Same asset as the homepage Experience card: the official white monochrome logo from `https://www.fudan.edu.cn/_upload/site/00/02/2/logo.png`, recoloured to Fudan blue `#0E419C` (near-white pixels only, so the source drop shadow does not turn into a halo) and trimmed to 221 × 64. It displays at 150px wide in the Experience table; `teai-logo.svg` is kept in the repo but no longer used there.
